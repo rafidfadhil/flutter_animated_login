@@ -1,6 +1,6 @@
 # animated_login_v1
 
-![Banner]([https://github.com/rafidfadhil/flutter_animated_login/assets/108025000/a1ba5fc6-9128-435f-8c30-514dbec304dc](https://github.com/rafidfadhil/flutter_animated_login/blob/main/assets/images/265041207-a1ba5fc6-9128-435f-8c30-514dbec304dc.png)https://github.com/rafidfadhil/flutter_animated_login/blob/main/assets/images/265041207-a1ba5fc6-9128-435f-8c30-514dbec304dc.png)
+![Banner](https://github.com/rafidfadhil/flutter_animated_login/assets/108025000/a1ba5fc6-9128-435f-8c30-514dbec304dc](https://github.com/rafidfadhil/flutter_animated_login/blob/main/assets/images/265041207-a1ba5fc6-9128-435f-8c30-514dbec304dc.png)https://github.com/rafidfadhil/flutter_animated_login/blob/main/assets/images/265041207-a1ba5fc6-9128-435f-8c30-514dbec304dc.png)
 
 A new Flutter project.
 
